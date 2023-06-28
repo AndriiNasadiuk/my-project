@@ -1,1 +1,3 @@
 Some text in new file in first subfolder
+
+changes made in the main branch
